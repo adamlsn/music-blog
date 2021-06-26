@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS music_blog;
+CREATE DATABASE music_blog;
